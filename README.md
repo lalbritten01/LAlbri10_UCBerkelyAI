@@ -1,6 +1,6 @@
 Hello,
 
-This is the README file for my submission to the Module 20.1 Capstone Project assignment. The python jupyter notebook for this assignment can be found here https://github.com/lalbritten01/LAlbri10_UCBerkelyAI/blob/UC_Berkeley-Car-Price_Assignment/Practical_Application_Assignment_11_1_What_Drives_the_Price_of_a_Car_.ipynb
+This is the README file for my submission to the Module 20.1 Capstone Project assignment. The python jupyter notebook for this assignment can be found here (https://github.com/lalbritten01/LAlbri10_UCBerkelyAI/blob/UC_Berkeley_Capstone/HawkesProcessCapstone.ipynb)
 
 The jupyter python notebook linked above has information from a dataset of internet traffic data and the EDA to understand the dataset and also begin to understand if the internet traffic data follows a pattern that can be accurately forecasted by the Hawkes self exciting point process.
 
