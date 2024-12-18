@@ -2,7 +2,7 @@ Capstone Project: Internet Traffic Forecasting with the Hawkes Process
 
 Introduction
 
-This README file provides an overview of my Module 20.1 Capstone Project submission. The project centers on analyzing internet traffic data and applying various forecasting methods to determine if the data follows a predictable pattern. The primary focus is on the Hawkes self-exciting point process, an advanced forecasting method capable of real-time evaluation and assessment. Additional methods, including simple linear regression and Exponential Smoothing, are also employed for comparison.
+This README file provides an overview of my Module 24.1 Capstone Final Project submission. The project centers on analyzing internet traffic data and applying various forecasting methods to determine if the data follows a predictable pattern. The primary focus is on the Hawkes self-exciting point process, an advanced forecasting method capable of real-time evaluation and assessment. Additional methods, including simple linear regression and Exponential Smoothing, are also employed for comparison.
 
 The Jupyter Notebook containing the full analysis can be found in the following repository: .
 
