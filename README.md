@@ -28,7 +28,7 @@ The focus of this analysis was to:
 
 2. **Key Insights from Data Cleaning and Exploration**:
    - The dataset was cleaned, with missing values handled and categorical variables encoded appropriately.
-   - Exploratory data analysis using **pandas** and **seaborn** revealed key relationships between features and the target variable, guiding the feature selection process.
+   - Exploratory data analysis using **pandas** revealed key relationships between features and the target variable, guiding the feature selection process.
 
 3. **Model Performance**:
    - All four models were trained and tested on the dataset using the same train-test split for consistency.
@@ -36,7 +36,7 @@ The focus of this analysis was to:
      - **kNN**: Performed well on accuracy but struggled with precision and recall, indicating sensitivity to class imbalance.
      - **Decision Trees**: Achieved high accuracy and interpretability but showed signs of overfitting on the training data.
      - **Logistic Regression**: Balanced performance across all metrics, making it a strong candidate for generalizable predictions.
-     - **SVM**: Delivered the highest precision and recall but had longer training times, making it less practical for large datasets.
+     - **SVM**:  Had longer training times, making it less practical for large datasets.
 
 4. **Actionable Recommendations**:
    - Based on the evaluation metrics, **Logistic Regression** emerged as the best overall model for this dataset due to its balance of accuracy, precision, and recall, along with its simplicity and efficiency in training.
